@@ -61,3 +61,9 @@ h1{
 #baby-developer{
     border-left: 7px solid blue;
 }
+
+footer p{
+    text-align: center;
+    margin-top: 80px;
+    color: grey;
+}
